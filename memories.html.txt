@@ -6,7 +6,7 @@
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
-  <h1>💖 Our Love Story 💖</h1>
+  <h1>💖 Our Love Story 💖</h1> 
 
   <ul class="love-list">
     <li>The day you entered my life and changed everything</li>
@@ -18,3 +18,4 @@
   <a href="index.html" class="back">⬅ Back</a>
 </body>
 </html>
+
