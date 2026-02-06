@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>My Heart Belongs to You</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>💌 My Heart Belongs to You 💌</h1>
+
+  <div class="message-box">
+    <p>
+      Kanna (Arun),<br><br>
+      You are my happiness, my peace, and my biggest blessing.<br>
+      Every moment with you feels magical.<br><br>
+      On this Rose Day, I give you my heart — today and always ❤️🌹
+    </p>
+  </div>
+
+  <a href="index.html" class="back">⬅ Back</a>
+</body>
+</html>
